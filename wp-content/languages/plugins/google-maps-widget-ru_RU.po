@@ -1,0 +1,433 @@
+# Translation of Stable (latest release) in Russian
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-09-23 14:36:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: google-maps-widget.php:209
+msgid " Shortcode <i>[gmw]</i> is already in use by another plugin or theme. Please deactivate that theme or plugin."
+msgstr " Шорткод <i>[gmw]</i>уже используется другим плагином или темой. Пожалуйста, деактивируйте тему или плагин. "
+
+#: google-maps-widget.php:267
+msgid "<b>Google Maps Widget</b> has extra premium features you can get for <b style=\"color: #d54e21;\">FREE</b>. This is a limited time offer so act now!"
+msgstr "Премиум функции <b>Google Maps Widget</b> вы можете получить <b style=\"color: #d54e21;\">БЕСПЛАТНО</b>. Предложение ограничено во времени, получите их сейчас!"
+
+#: google-maps-widget.php:116 google-maps-widget.php:269
+msgid "Activate premium features for <b>FREE</b>"
+msgstr "Активировать премиум функции <b>БЕСПЛАТНО</b>"
+
+#: google-maps-widget.php:318
+msgid "An undocumented error has occured. Please refresh the page and try again."
+msgstr "Произошла неизвестная ошибка. Пожалуйста, обновите страницу и попробуйте еще раз."
+
+#: google-maps-widget.php:313
+msgid "Check your inbox. Email with activation code is on its way."
+msgstr "Проверьте свой почтовый ящик. Мы выслали вам письмо с кодом активации."
+
+#: google-maps-widget.php:270 google-maps-widget.php:285
+msgid "Dismiss notice"
+msgstr "Прекратить уведомления"
+
+#. Description of the plugin/theme
+msgid "Display a single-image super-fast loading Google map in a widget. A larger, full featured map is available on click in a lightbox. Includes shortcode support and numerous options."
+msgstr "Отображает единую супер-быструю Google карту в виджете. Полнофункциональная карта большого размера доступна по щелчку в лайтбоксе. Включает в себя поддержку шорткода и множество опций."
+
+#: google-maps-widget.php:369
+msgid "Enter your code and activate extra features"
+msgstr "Введите код и активируйте дополнительные функции"
+
+#: google-maps-widget.php:363
+msgid "Fill out the form and<br>get extra features &amp; options <b>for FREE</b> instantly!"
+msgstr "Заполните форму и<br>получите дополнительные функции &amp; опции <b>БЕСПЛАТНО</b> мгновенно!"
+
+#: google-maps-widget.php:317
+msgid "GOOGLE MAPS WIDGET - Activate Extra Features"
+msgstr "GOOGLE MAPS WIDGET - Активируйте дополнительные функции"
+
+#: google-maps-widget.php:142
+msgid "Google Maps Widget <b>requires WordPress version 3.3</b> or higher to function properly. You are using WordPress version %s. Please <a href=\"%s\">update it</a>."
+msgstr "Google Maps Widget <b>требует WordPress версию 3.3</b> или выше для должной работы своих функций. У вас WordPress версия %s. Пожалуйста, <a href=\"%s\">обновите ее</a>."
+
+#: google-maps-widget.php:209
+msgid "Google Maps Widget shortcode is not active!"
+msgstr "Google Maps Widgetшорткод не активен!"
+
+#: google-maps-widget.php:284
+msgid "Help us out &amp; rate the plugin"
+msgstr "Помогите нам &amp; оцените плагин"
+
+#: google-maps-widget.php:282
+msgid "Hi! We saw you've been using <b>Google Maps Widget</b> for some time and wanted to ask for your help to make the plugin even better.<br>We don't need money :), just a minute of your time to rate the plugin. Thank you!"
+msgstr "Привет! Мы заметили, вы используете<b>Google Maps Widget</b>  и хотели бы попросить вас помочь нам улучшить плагин. <br>Мы не просим денег:), а только минуточку времени, чтобы оценить плагин. Спасибо!"
+
+#: google-maps-widget.php:315
+msgid "Something is not right on our end. Sorry :( Try again later."
+msgstr "Что-то не так с нашей стороны. К сожалению :( Попробуйте еще раз позже."
+
+#: google-maps-widget.php:316
+msgid "Superb! Extra features are active ;)"
+msgstr "Превосходно! Дополнительные функции активны;)"
+
+#. Author of the plugin/theme
+msgid "Web factory Ltd"
+msgstr "Web factory Ltd"
+
+#: google-maps-widget.php:314
+msgid "You are already subscribed to our list. One activation code is valid for all sites so just use the code you already have."
+msgstr "Вы уже подписаны. Один код активации действителен для всех сайтов, просто используйте код, который у вас уже есть."
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.googlemapswidget.com/"
+msgstr "http://www.googlemapswidget.com/"
+
+#. Author URI of the plugin/theme
+msgid "http://www.webfactoryltd.com/"
+msgstr "http://www.webfactoryltd.com/"
+
+#: gmw-widget.php:95
+msgid "0 - entire world"
+msgstr "0 - весь мир"
+
+#: gmw-widget.php:255
+msgid "Activate extra features &amp; options"
+msgstr "Активируйте дополнительные функции &amp; опции"
+
+#: gmw-widget.php:182
+msgid "Add more schemes for FREE"
+msgstr "Добавить больше схем БЕСПЛАТНО"
+
+#: gmw-widget.php:214
+msgid "Add more skins for FREE"
+msgstr "Добавить больше скинов БЕСПЛАТНО"
+
+#: gmw-widget.php:132
+msgid "Address"
+msgstr "Адрес"
+
+#: gmw-widget.php:218
+msgid "Address Bubble"
+msgstr "Адресное облачко"
+
+#: gmw-tracking.php:84
+msgid "Allow"
+msgstr "Разрешить"
+
+#: gmw-widget.php:120
+msgid "Apple"
+msgstr "Apple"
+
+#: gmw-widget.php:79
+msgid "Black"
+msgstr "Черный"
+
+#: gmw-widget.php:84 gmw-widget.php:123
+msgid "Blue"
+msgstr "Голубой"
+
+#: gmw-widget.php:80
+msgid "Brown"
+msgstr "Коричневый"
+
+#: gmw-widget.php:270
+msgid "Click to <a href=\"#\" class=\"open_promo_dialog\">get extra premium features</a> for Google Maps Widget! For <b><span style=\"color: #d54e21;\">FREE</span></b>."
+msgstr "Нажмите <a href=\"#\" class=\"open_promo_dialog\">для приобретения премиум функций</a> Google Maps Widget! <b><span style=\"color: #d54e21;\">БЕСПЛАТНО</span></b>."
+
+#: gmw-widget.php:372 gmw-widget.php:378
+msgid "Click to open larger map"
+msgstr "Нажмите, чтобы открыть больше карту"
+
+#: gmw-widget.php:178
+msgid "Color Scheme"
+msgstr "Цветовая схема"
+
+#: google-maps-widget.php:103
+msgid "Configure Google Maps Widget"
+msgstr "Настроить Google Maps Widget"
+
+#: gmw-widget.php:110
+msgid "Custom"
+msgstr "Пользовательский"
+
+#: gmw-widget.php:113 gmw-widget.php:175
+msgid "Custom URL"
+msgstr "Пользовательский URL"
+
+#: gmw-widget.php:101
+msgid "Dark"
+msgstr "Темный"
+
+#: gmw-widget.php:116
+msgid "Default"
+msgstr "По умолчанию"
+
+#: gmw-widget.php:114
+msgid "Disable link"
+msgstr "Отключить ссылку"
+
+#: gmw-widget.php:22
+msgid "Displays a map image thumbnail with a larger map available in a lightbox."
+msgstr "Отображает миниатюры карты с доступной большой картой в лайтбокс."
+
+#: gmw-tracking.php:85
+msgid "Do not allow tracking"
+msgstr "Не позволять отслеживать"
+
+#: gmw-widget.php:106
+msgid "Do not show map title on lightbox"
+msgstr "Не показывать заголовок карты в лайтбокс"
+
+#: google-maps-widget.php:112
+msgid "Documentation"
+msgstr "Документация"
+
+#: google-maps-widget.php:115
+msgid "Donate"
+msgstr "Пожертвовать"
+
+#: gmw-widget.php:231
+msgid "Footer Text"
+msgstr "Сноска"
+
+#. #-#-#-#-#  tmp-google-maps-widget.pot (Google Maps Widget 2.80)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: gmw-widget.php:24
+msgid "Google Maps Widget"
+msgstr "Google Maps Widget"
+
+#: gmw-widget.php:85 gmw-widget.php:121
+msgid "Gray"
+msgstr "Серый"
+
+#: gmw-widget.php:81
+msgid "Green"
+msgstr "Зеленый"
+
+#: gmw-widget.php:228
+msgid "Header Text"
+msgstr "Текст заголовка"
+
+#: gmw-widget.php:103
+msgid "Hide"
+msgstr "Спрятать"
+
+#: gmw-widget.php:72 gmw-widget.php:77
+msgid "Hybrid"
+msgstr "Гибрид"
+
+#: google-maps-widget.php:115
+msgid "If you feel we deserve it, buy us coffee"
+msgstr "Если вы считаете, что мы это заслужили, угостите нас кофе"
+
+#: google-maps-widget.php:114
+msgid "If you like it, please review the plugin"
+msgstr "Если вам понравилось, просмотрите плагин"
+
+#: gmw-widget.php:256
+msgid "If you subscribe to our mailing list we'll instantly activate additional features in the plugin! At the moment those features are: shortcode support, 3 additional thumbnail map skins and 2 additional lightbox skins. More <i>activate by subscribing</i> features will be available soon!"
+msgstr "Если вы подпишитесь на нашу рассылку, мы мгновенно активируем для вас дополнительные функции в плагине! В настоящее время это: Поддержка шорткодов, 3 дополнительных скина для карт миниатюр и 2 дополнительных скина лайтбокса. Больше функций<i>при подписке<i>будут доступны в ближайшее время!"
+
+#: gmw-widget.php:134
+msgid "Info &amp; Support"
+msgstr "Инфо &amp; Поддержка"
+
+#: gmw-widget.php:93
+msgid "Large (default)"
+msgstr "Большой (по умолчанию)"
+
+#: gmw-widget.php:100
+msgid "Light (default)"
+msgstr "Светлый (по умолчанию)"
+
+#: gmw-widget.php:112
+msgid "Lightbox (default)"
+msgstr "Лайтбокс (по умолчанию)"
+
+#: gmw-widget.php:210
+msgid "Lightbox Skin"
+msgstr "Скин лайтбокса"
+
+#: gmw-widget.php:134
+msgid "Lightbox map"
+msgstr "Карта лайтбокс"
+
+#: gmw-widget.php:170
+msgid "Link To"
+msgstr "Ссылка на"
+
+#: gmw-widget.php:31
+msgid "Map"
+msgstr "Карта"
+
+#: gmw-widget.php:137 gmw-widget.php:195
+msgid "Map Size"
+msgstr "Размер карты"
+
+#: gmw-widget.php:223
+msgid "Map Title"
+msgstr "Название карты"
+
+#: gmw-widget.php:142 gmw-widget.php:200
+msgid "Map Type"
+msgstr "Тип карты"
+
+#: gmw-widget.php:92
+msgid "Medium"
+msgstr "Средний"
+
+#: gmw-widget.php:32
+msgid "New York, USA"
+msgstr "Нью-Йорк, США"
+
+#: gmw-widget.php:86
+msgid "Orange"
+msgstr "Оранжевый"
+
+#: gmw-widget.php:122
+msgid "Paper"
+msgstr "Документ"
+
+#: gmw-widget.php:152
+msgid "Pin Color"
+msgstr "Цвет штекера"
+
+#: gmw-widget.php:162
+msgid "Pin Image URL"
+msgstr "Изображение штекера URL"
+
+#: gmw-widget.php:157
+msgid "Pin Size"
+msgstr "Размер штекера"
+
+#: gmw-widget.php:147
+msgid "Pin Type"
+msgstr "Тип штекера"
+
+#: gmw-tracking.php:83
+msgid "Please help us improve <strong>Google Maps Widget</strong> by allowing us to track anonymous usage data. Absolutely <strong>no sensitive data is tracked</strong> (<a href=\"http://www.googlemapswidget.com/plugin-tracking-info/\" target=\"_blank\">complete disclosure &amp; details of our tracking policy</a>)."
+msgstr "Пожалуйста, помогите нам улучшить <strong>Виджет Google Maps </strong>, позволив нам анонимно отслеживать данные об использовании . Конфиденциальные данные <strong>совершенно не отслеживается</strong> ( <a href=\"http://www.googlemapswidget.com/plugin-tracking-info/\" target=\"_blank\">полностью публичные детали нашей политики отслеживания</a>)."
+
+#: gmw-widget.php:242
+msgid "Please save the widget so that the shortcode can be generated."
+msgstr "Пожалуйста, сохраните виджет, чтобы сгенерировался шорткод."
+
+#: gmw-widget.php:109
+msgid "Predefined (default)"
+msgstr "Встроенный (по умолчанию)"
+
+#: google-maps-widget.php:113
+msgid "Problems? We are here to help!"
+msgstr "Проблемы? Мы здесь, чтобы помочь вам!"
+
+#: gmw-widget.php:82
+msgid "Purple"
+msgstr "Фиолетовый"
+
+#: gmw-widget.php:263
+msgid "Rate the plugin &amp; spread the word"
+msgstr "Оценить плагин &amp; рассказать о плагине"
+
+#: gmw-widget.php:87
+msgid "Red (default)"
+msgstr "Красный (по умолчанию)"
+
+#: gmw-widget.php:117
+msgid "Refreshed by Google"
+msgstr "Обновлены Google"
+
+#: google-maps-widget.php:114
+msgid "Review the plugin"
+msgstr "Просмотреть плагин"
+
+#: gmw-widget.php:69 gmw-widget.php:74
+msgid "Road (default)"
+msgstr "Дорога (по умолчанию)"
+
+#: gmw-widget.php:124
+msgid "Rounded"
+msgstr "Закругленный"
+
+#: gmw-widget.php:70 gmw-widget.php:75
+msgid "Satellite"
+msgstr "Спутниковая карта"
+
+#: gmw-widget.php:134
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: gmw-widget.php:104
+msgid "Show (default)"
+msgstr "Показать (по умолчанию)"
+
+#: gmw-widget.php:107
+msgid "Show map title on lightbox (default)"
+msgstr "Показывать заголовок карты в лайтбокс (по умолчанию)"
+
+#: gmw-widget.php:91
+msgid "Small"
+msgstr "Маленький"
+
+#: gmw-widget.php:260
+msgid "Subscribe and <a class=\"open_promo_dialog\" href=\"#\">activate extra features</a>."
+msgstr "Подписаться и <a class=\"open_promo_dialog\" href=\"#\"> активировать дополнительные функции</a>."
+
+#: gmw-widget.php:253 google-maps-widget.php:113
+msgid "Support"
+msgstr "Поддержка"
+
+#: gmw-widget.php:71 gmw-widget.php:76
+msgid "Terrain"
+msgstr "Местность"
+
+#: gmw-widget.php:186
+msgid "Text Above Map"
+msgstr "Текст над картой"
+
+#: gmw-widget.php:189
+msgid "Text Below Map"
+msgstr "Текст под картой"
+
+#: gmw-widget.php:134
+msgid "Thumbnail map"
+msgstr "Карта в миниатюре"
+
+#: gmw-widget.php:90
+msgid "Tiny"
+msgstr "Миниатюрный"
+
+#: gmw-widget.php:131
+msgid "Title"
+msgstr "Название"
+
+#: gmw-widget.php:245
+msgid "Use the above shortcode to display this Google Maps Widget instance in any page or post. <br>Please note that your theme might style the widget in the post as if it is placed in a sidebar. In that case use the <code>span.gmw-shortcode-widget</code> class to target the shortcode and make  necessary changes via CSS."
+msgstr "Используйте вышеуказанный шорткод для отображения данного экземпляра Google Maps Widget на любой странице или публикации. <br> Пожалуйста, обратите внимание, что ваша тема может стилизовать виджет в публикации, как будто он находится на боковой панели. В этом случае используйте <code>span.gmw-shortcode-widget</code> класс для назначения шорткода и внесения необходимых изменений через CSS."
+
+#: google-maps-widget.php:112
+msgid "View Google Maps Widget documentation"
+msgstr "Просмотреть документацию Google Maps Widget"
+
+#: gmw-widget.php:88
+msgid "White"
+msgstr "Белый"
+
+#: google-maps-widget.php:103
+msgid "Widgets"
+msgstr "Виджеты"
+
+#: gmw-widget.php:83
+msgid "Yellow"
+msgstr "Желтый"
+
+#: gmw-widget.php:258
+msgid "You've already subscribed and activated extra features. Thank you!"
+msgstr "Вы подписались и активировали дополнительные функции. Спасибо!"
+
+#: gmw-widget.php:165 gmw-widget.php:205
+msgid "Zoom Level"
+msgstr "Уровень масштабирования"
